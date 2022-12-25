@@ -1,4 +1,6 @@
-pragma solidity > 0.5.1 < 0.8.9;
+// SPDX-License-Identifier: UNLICENSED
+
+pragma solidity >= 0.5.1 < 0.9.0;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
